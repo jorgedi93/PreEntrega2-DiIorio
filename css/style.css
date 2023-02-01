@@ -7,9 +7,13 @@
 }
 /*estilos del menu*/
 header nav{
-    background-color: grey;
-    
+    background-image: linear-gradient(grey, rgb(94, 93, 93));
 }
+
+header nav ul li:hover{
+ transform: scale(1.1);
+}
+
 
 /*estilos del index*/ 
 /*estilo celular*/
